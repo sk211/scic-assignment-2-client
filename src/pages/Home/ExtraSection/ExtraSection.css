@@ -1,0 +1,11 @@
+.containt_main {
+    position: relative;
+    border-radius: 5px;
+    height: 200px;
+}
+
+.contant_sub {
+    position: absolute;
+    top: 40%;
+    left: 9%;
+}
